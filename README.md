@@ -1,5 +1,5 @@
 # ScanX
-ScanX is a QR code  and bar code decoder android application . 
+ScanX is a native android application which  scan QR code / bar code and decode them and fetch the information binded in QR code/bar code android application . 
 _________________________________________________________________
        SCREENSHOTS OF THE APPLICATION
 ________________________________________________________________       
